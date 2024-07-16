@@ -1,6 +1,6 @@
 # Estudos sobre Java Collections
 
-Este repositório contém meus estudos e práticas sobre a Java Collections Framework. Aqui você encontrará exemplos, exercícios, e explicações detalhadas sobre as principais interfaces e classes que compõem a biblioteca de coleções do Java.
+Este repositório contém meus estudos e práticas sobre Java Collections. Aqui você encontrará exemplos, exercícios, e explicações sobre as principais interfaces e classes que compõem a biblioteca de coleções do Java.
 
 ## Conteúdo
 
