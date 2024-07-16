@@ -7,19 +7,24 @@ Este repositório contém meus estudos e práticas sobre a Java Collections Fram
 - **List**
   - ArrayList
   - Estudos de caso
+  
 - **Set**
   - HashSet
-  - LinkedHashSet
   - TreeSet
   - Estudos de caso
+  
 - **Map**
   - HashMap
-  - LinkedHashMap
   - TreeMap
   - Estudos de caso
+  
 - **Comparação de Objetos**
   - Implementação de `Comparable`
+  
   - Implementação de `Comparator`
+  
   - Estudos práticos
+  
+    
 
 Contribuições são bem-vindas! Se você encontrar algum problema ou tiver sugestões de melhorias, abra uma issue ou envie um pull request.
